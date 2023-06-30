@@ -1,7 +1,7 @@
 ### I'm a student major in CS in HIT
-- currently learning python and machine learning
-- also interested in java
-- trying to learn more✍
+- 🌱 currently learning python and machine learning
+- 🔭 also interested in java
+- ✍ trying to learn more
 
 <!--
 **frankhit2021/frankhit2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
